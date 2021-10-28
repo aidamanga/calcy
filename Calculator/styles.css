@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&family=Courgette&family=Covered+By+Your+Grace&family=Irish+Grover&family=Rancho&display=swap');
+#results {
+    display:none;
+  }
+  .container {
+    text-align: center;
+    border-style: solid;
+    background: green;
+    font-family: 'Irish Grover', cursive;
+    position: center;
+    padding:  40px 80px ;
+    
+  }
+
+  body {
+   background: url(Falling-Money-PNG-Free-Image.png);
+   background-size: 150rem;
+   background-repeat: no-repeat;
+   background-position: center;
+      }
